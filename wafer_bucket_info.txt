@@ -1,0 +1,31 @@
+wafertrainarchievebaddata16022021,
+waferpredictarchievebaddata16022021,
+
+waferpicklemodel16022021,
+
+wafertrainbadrawdata16022021,
+waferpredictbadrawdata16022021,
+
+wafertraingoodrawdata16022021,
+waferpredictgoodrawdata16022021,
+
+wafertrainingbatchfiles16022021,
+waferpredictionbatchfiles16022021,
+
+waferschema16022021    1.schema_training.json  2. schema_prediction.json ,
+
+waferpreprocessdata
+
+waferinputfiles16022021  1. inputfiletrain.csv   2. inputfilepredict.csv
+
+
+waferresult16022021   1. PredictionFile.csv
+
+wafernulltraindf16022021,
+wafernullpredictdf16022021,
+
+
+
+
+
+
